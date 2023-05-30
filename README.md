@@ -1,6 +1,6 @@
 # Windows Application for Artificial Fixation Points
 
-### This is my take with a Windows application written in C# using WinForms that implements a technique called "Bionic Reading", it creates artificial fixation points by emphasizing the first few letters of words using bold string. This technique is aimed at reducing eye strain while improving reading speed and comprehension which I thought was pretty cool.
+This is my take with a Windows application written in C# using WinForms that implements a technique called "Bionic Reading", it creates artificial fixation points by emphasizing the first few letters of words using bold string. This technique is aimed at reducing eye strain while improving reading speed and comprehension which I thought was pretty cool.
 
 # Description
 
