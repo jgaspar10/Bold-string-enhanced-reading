@@ -1,0 +1,12 @@
+D:\BoldStringsCSHARP\BoldStrings\bin\Debug\BoldStrings.exe.config
+D:\BoldStringsCSHARP\BoldStrings\bin\Debug\BoldStrings.exe
+D:\BoldStringsCSHARP\BoldStrings\bin\Debug\BoldStrings.pdb
+D:\BoldStringsCSHARP\BoldStrings\bin\Debug\Guna.UI2.dll
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.csproj.AssemblyReference.cache
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.Form1.resources
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.Properties.Resources.resources
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.csproj.GenerateResource.cache
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.csproj.CoreCompileInputs.cache
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.csproj.CopyComplete
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.exe
+D:\BoldStringsCSHARP\BoldStrings\obj\Debug\BoldStrings.pdb
