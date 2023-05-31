@@ -6,6 +6,14 @@ This is my take with a Windows application written in C# using WinForms that imp
 
 The program takes text as input and processes it to create artificial fixation points by emphasizing the first few letters of each word. This is achieved by wrapping the first few letters of a word in <b> and </b> HTML tags. The emphasized text is then displayed in a RichTextBox control.
 
+# Images 
+
+![image1](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/f75b5651-24c7-411b-9b82-a5eca199ac1b)
+![image2](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/9ef6048a-e463-4790-8c80-a1121ca5bfa6)
+![image3](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/677fd9ba-57c5-4805-a075-98eb67c68451)
+![boldstring-gif](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/52639ce0-5f12-407f-9056-9c4bdcbf0a5d)
+
+
 # Usage
 - Enter or paste the text into the input area of the application.
 - Click the "Transform" button to generate the emphasized text.
