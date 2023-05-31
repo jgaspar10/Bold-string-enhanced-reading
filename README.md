@@ -27,9 +27,9 @@ Note: The program considers the first three letters of each word for emphasis if
 
 ## This application was developed using the following:
 
-.NET Framework 4.7.2
-Windows Forms
-Guna.UI
+- .NET Framework 4.7.2
+- Windows Forms
+- Guna.UI
 
 # Contributing
 
