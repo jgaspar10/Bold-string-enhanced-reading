@@ -4,7 +4,7 @@ This is my take with a Windows application written in C# using WinForms that imp
 
 # Description
 
-The program takes text as input and processes it to create artificial fixation points by emphasizing the first few letters of each word. This is achieved by wrapping the first few letters of a word in <b> and </b> HTML tags. The emphasized text is then displayed in a RichTextBox control.
+The program takes text as input and processes it to create artificial fixation points by emphasizing the first few letters of each word. This is achieved by wrapping the first few letters of a word in "<b>" and "</b>" HTML tags. The emphasized text is then displayed in a RichTextBox control.
 
 # Images 
 
