@@ -8,10 +8,11 @@ The program takes text as input and processes it to create artificial fixation p
 
 # Images 
 
-![image1](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/f75b5651-24c7-411b-9b82-a5eca199ac1b)
-![image2](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/9ef6048a-e463-4790-8c80-a1121ca5bfa6)
-![image3](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/677fd9ba-57c5-4805-a075-98eb67c68451)
-![boldstring-gif](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/52639ce0-5f12-407f-9056-9c4bdcbf0a5d)
+![image1](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/d9dcb0d5-5c02-4aa5-90a5-2d95e2ea0a80)
+![image2](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/bfb6f8de-b833-4076-9df8-a7644925ffe3)
+![image3](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/bf84dc34-e121-4999-8dc9-e7a39acc07d6)
+![boldstring-gif](https://github.com/jgaspar10/Bold-string-enhanced-reading/assets/61797706/4549daac-f68f-4511-a225-aada2319e4a0)
+
 
 
 # Usage
